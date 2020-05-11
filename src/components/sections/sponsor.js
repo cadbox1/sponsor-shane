@@ -17,14 +17,16 @@ export const Sponsor = () => {
 			subject: "I would genuinely like to Sponsor Shane",
 			body: `Hi Team,
             
-            I would like to Sponsor Shane Today.
+I would genuinely like to Sponsor Shane Today.
 
-            Sponshorship type: ${option}.
-            I would like to drink my sponsorship with shane: ${
-							drinkWithShane ? "Yes" : "No"
-						}.
+Sponsorship type: ${option}.
+I would like to drink my sponsorship with shane: ${
+                drinkWithShane ? "Yes" : "No"
+            }.
 
-            Thanks!`,
+Please take my money.
+
+Thanks!`,
 		};
 
 		window.location =

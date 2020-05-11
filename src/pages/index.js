@@ -61,10 +61,10 @@ export default ({ data }) => {
 				<Styled.h2 sx={{ mt: 6 }}>How you can help</Styled.h2>
 				<Styled.p sx={{ mt: 4 }}>
 					Shane is saving a bit of money with the vape and his friends enjoy him
-					more but it's not enough.
+					more but it's not enough. We need your help to keep Shane on the right track and smelling nice. 
 				</Styled.p>
 				<Styled.p sx={{ mt: 4 }}>
-					Sponsor Shane today to keep him smelling nice.
+					Sponsor Shane today.
 				</Styled.p>
 
 				<Sponsor />
